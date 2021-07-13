@@ -17,7 +17,7 @@ export const ProfileList = () => (
       />
     </a>
 
-    <a href="https://pdfhost.io/v/FVd02QeIZ_Edward_Zhang_Resume.pdf">
+    <a href="https://ez0623.github.io/resume/">
       <img src="https://img.icons8.com/ios/50/000000/resume.png" alt="resume" />
     </a>
   </div>
