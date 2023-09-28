@@ -3,7 +3,7 @@ import "./profile-list.css";
 
 export const ProfileList = () => (
   <div>
-    <a href="https://github.com/ez0623">
+    <a href="https://github.com/edlz">
       <img
         src="https://img.icons8.com/material-sharp/48/000000/github.png"
         alt="Github"
